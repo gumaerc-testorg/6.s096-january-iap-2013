@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lectures and Assignments
 uid: 1d0729a5-9d9f-5e99-126f-6cea8d53b518
 ---

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lectures and Assignments
+parent_type: CourseSection
 parent_uid: 1d0729a5-9d9f-5e99-126f-6cea8d53b518
 title: Data Structures, Debugging
 uid: b3ef0975-08f4-37ed-8fbe-d839cfaa1e5d

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lectures and Assignments
+parent_type: CourseSection
 parent_uid: 1d0729a5-9d9f-5e99-126f-6cea8d53b518
 title: C++ Inheritance
 uid: f70e7442-f692-8d5e-4454-66e50eba0b4f

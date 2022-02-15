@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus and Software
 uid: 01ee04e1-38b0-9ea0-c906-e9d57f619319
 ---

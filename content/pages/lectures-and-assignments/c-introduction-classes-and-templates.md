@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lectures and Assignments
+parent_type: CourseSection
 parent_uid: 1d0729a5-9d9f-5e99-126f-6cea8d53b518
 title: C++ Introduction, Classes, and Templates
 uid: f6afd55a-3350-f806-04e5-f89e1f90cc5f

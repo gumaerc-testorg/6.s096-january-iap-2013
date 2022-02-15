@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lectures and Assignments
+parent_type: CourseSection
 parent_uid: 1d0729a5-9d9f-5e99-126f-6cea8d53b518
 title: Compilation Pipeline
 uid: f0acd411-10d1-ccdc-6d70-3d6ea2bfac40
@@ -56,7 +59,7 @@ You can run the resulting program with two arguments: a number, then a string (i
 ./fibeverse 6 'what a trip that was!'  8  was! that trip a what
 ```
 
-The first line it prints is the 6th fibonacci number. The second line is the string you provided, with the words reversed.
+The first line it prints is the 6{{< sup "th" >}} fibonacci number. The second line is the string you provided, with the words reversed.
 
 ### Problem 1
 

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Final Project
+parent_type: CourseSection
 parent_uid: 43e815cb-25bc-972c-4ad2-bcd5545036c5
 title: Starter Kit
 uid: 95373ee7-c310-c36e-3ac2-a00d9b23d8bf
