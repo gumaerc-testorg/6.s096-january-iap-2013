@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Data Structures, Debugging
 parent_type: CourseSection
+parent_uid: b3ef0975-08f4-37ed-8fbe-d839cfaa1e5d
 resourcetype: Image
 title: Payload.jpg
 uid: 88c1c1ed-a954-9b63-8921-e7bc588469b5

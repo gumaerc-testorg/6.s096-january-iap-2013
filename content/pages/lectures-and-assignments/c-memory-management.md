@@ -49,7 +49,7 @@ While coding up this exercise, listening to Hakuna Matata, I was so worry-free I
 Fix the following code so that it creates a string `str` and copies "`hakuna matata!`" into it.
 
 ```
-#include <stdio.h>
+`#include <stdio.h>
 
 void main() {
 	char str[];
@@ -57,7 +57,8 @@ void main() {
 	                         // into our char array
 	printf("%s\n", str);
 	// Anything else?
-}
+}`
+
 ```
 
 After confirming your fix works, change the code to use heap memory instead of the stack. Remember, everything you `malloc` you must also `free`!

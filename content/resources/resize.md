@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: C Memory Management
 parent_type: CourseSection
+parent_uid: 66ba4420-12a6-1549-5e33-42c9cfdf9aa2
 resourcetype: Other
 title: resize.c
 uid: 3f0a785b-70bb-2432-6d3a-84cf55dc0c3a

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: C++ Inheritance
 parent_type: CourseSection
+parent_uid: f70e7442-f692-8d5e-4454-66e50eba0b4f
 resourcetype: Document
 title: '6.S096 Lecture 6: C++ Inheritance'
 uid: 792c0821-cf28-9a0b-8cf4-e3494e997df5

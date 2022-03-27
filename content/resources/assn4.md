@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Data Structures, Debugging
 parent_type: CourseSection
+parent_uid: b3ef0975-08f4-37ed-8fbe-d839cfaa1e5d
 resourcetype: Other
 title: assn4.zip
 uid: 8c771098-eeb1-37e4-ad84-32b82d3a4dd9

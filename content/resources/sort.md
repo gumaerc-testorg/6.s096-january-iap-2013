@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: C Memory Management
 parent_type: CourseSection
+parent_uid: 66ba4420-12a6-1549-5e33-42c9cfdf9aa2
 resourcetype: Other
 title: sort.c
 uid: bf997211-df40-0d14-b504-e4c0815c6d44

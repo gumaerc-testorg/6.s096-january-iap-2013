@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Core C: Control Structures, Variables, Scope, and Uninitialized Memory'
 parent_type: CourseSection
+parent_uid: 055a6a4e-4abd-91c3-6e69-fb5bc0e07a03
 resourcetype: Document
 title: '6.S096 Lecture 2: Control Structures, Variables, Scope, and Unitialized Memory'
 uid: 812a4e8f-7a2b-5a43-5bad-362fd23ad377

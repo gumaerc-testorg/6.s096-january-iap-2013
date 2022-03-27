@@ -93,9 +93,15 @@ These classes will also need a public function `bool fight(Tool)` that compares 
 You may also include any extra auxiliary functions and/or fields in any of these classes. Run the program without changing the main function, and verify that the results are correct.
 
 ```
+
+
+```
 $ g++ -Wall rps.cpp -o rps
 $ ./rps
 <your test output>
+```
+
+
 ```
 
 ### Solutions

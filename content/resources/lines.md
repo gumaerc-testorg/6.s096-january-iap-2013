@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Starter Kit
 parent_type: CourseSection
+parent_uid: 95373ee7-c310-c36e-3ac2-a00d9b23d8bf
 resourcetype: Other
 title: lines.c
 uid: c9d5adc7-5b85-7df4-4582-fc9ce339dd56

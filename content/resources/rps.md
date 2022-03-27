@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: C++ Inheritance
 parent_type: CourseSection
+parent_uid: f70e7442-f692-8d5e-4454-66e50eba0b4f
 resourcetype: Other
 title: rps.cpp
 uid: 23c7e004-be62-3fe6-f467-62154c908d8f

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: C Memory Management
 parent_type: CourseSection
+parent_uid: 66ba4420-12a6-1549-5e33-42c9cfdf9aa2
 resourcetype: Document
 title: 6.S096 Assignment 3 Solutions
 uid: 4ad96743-16e7-41fe-0189-fe0d571beed8

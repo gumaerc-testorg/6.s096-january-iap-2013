@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Compilation Pipeline
 parent_type: CourseSection
+parent_uid: f0acd411-10d1-ccdc-6d70-3d6ea2bfac40
 resourcetype: Other
 title: assn1.zip
 uid: 74c1b332-7e60-2e18-1ba7-1b2efb2b39fd

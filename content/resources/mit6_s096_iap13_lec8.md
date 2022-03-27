@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Assignments
 parent_type: CourseSection
+parent_uid: 1d0729a5-9d9f-5e99-126f-6cea8d53b518
 resourcetype: Document
 title: '6.S096 Lecture 8: Assorted Topics'
 uid: 1a29a40f-d23c-64f5-f090-c8fa9f22ebc9

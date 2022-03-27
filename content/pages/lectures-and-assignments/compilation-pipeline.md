@@ -56,7 +56,7 @@ You can compile them with this command (though it won't work at first; see Probl
 You can run the resulting program with two arguments: a number, then a string (in quotes):
 
 ```
-./fibeverse 6 'what a trip that was!'  8  was! that trip a what
+**./fibeverse 6 'what a trip that was!'**  8  was! that trip a what
 ```
 
 The first line it prints is the 6{{< sup "th" >}} fibonacci number. The second line is the string you provided, with the words reversed.

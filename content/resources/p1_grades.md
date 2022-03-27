@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: C++ Introduction, Classes, and Templates
 parent_type: CourseSection
+parent_uid: f6afd55a-3350-f806-04e5-f89e1f90cc5f
 resourcetype: Other
 title: p1_grades.c
 uid: 6e2abcc9-4432-f7d6-1ed8-3526d169e12b

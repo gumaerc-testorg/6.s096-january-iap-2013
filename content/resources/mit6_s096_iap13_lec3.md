@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: C Memory Management
 parent_type: CourseSection
+parent_uid: 66ba4420-12a6-1549-5e33-42c9cfdf9aa2
 resourcetype: Document
 title: '6.S096 Lecture 3: C Memory Management'
 uid: bba9056d-5290-198d-563e-dc47dfcff0e9

@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Compilation Pipeline
 parent_type: CourseSection
+parent_uid: f0acd411-10d1-ccdc-6d70-3d6ea2bfac40
 resourcetype: Document
 title: 'Lecture 1: Compilation Pipeline'
 uid: fa125236-3414-ff23-580c-2b924da60e3e
