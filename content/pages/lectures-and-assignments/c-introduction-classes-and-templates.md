@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides materials for a lecture on C++ programming, classes,
+  and templates, including lecture notes and an assignment with.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lectures and Assignments
@@ -12,7 +14,7 @@ uid: f6afd55a-3350-f806-04e5-f89e1f90cc5f
 Lecture Notes
 -------------
 
-[Lecture 5: C++ Introduction, Classes, and Templates (PDF)]({{< baseurl >}}/resources/mit6_s096_iap13_lec5)
+{{% resource_link 3e02d378-3834-74f6-62b3-fb1758aa1c17 "Lecture 5: C++ Introduction, Classes, and Templates (PDF)" %}}
 
 Lab Exercises
 -------------
@@ -28,7 +30,7 @@ Now that we've transitioned from learning C to learning C++, we should be able t
 
 Download the C code below, and create a new file, `p1_grades.cpp.`
 
-[p1\_grades (C)]({{< baseurl >}}/resources/p1_grades)
+{{% resource_link 6e2abcc9-4432-f7d6-1ed8-3526d169e12b "p1\_grades (C)" %}}
 
 Your job is to create a C++ class named `Grade` that has the same functionality as the old `struct Grade` and associated functions in the original C file. When you are finished, your C++ file should only have one function definition outside of the class: `main()`. You should use the following definition of main:
 
@@ -76,7 +78,7 @@ $ ./p1_grades
 
 In this problem, you will be converting a class that is specialized for integers into a templated class that can handle many types, including integers and structs. You will create a templated class named `List` that correctly initializes, manages, and de-allocates an array of a specified length. This is a nice class because the normal C arrays we've seen do not keep track of their length at runtime, but the class we're building will do that for us!
 
-[p2\_templates (CPP)]({{< baseurl >}}/resources/p2_templates)
+{{% resource_link a915d672-bc40-b14f-7a00-da9ac00d69d4 "p2\_templates (CPP)" %}}
 
 When you're finished writing your templated `List` class, you should change your `main()` function to this code below (this is the same code that's in the starter file, p2\_templates.cpp):
 

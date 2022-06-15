@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides materials for a lecture on C++ inheritance, including
+  lecture notes, lab exercises, and an assignment.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lectures and Assignments
@@ -12,7 +14,7 @@ uid: f70e7442-f692-8d5e-4454-66e50eba0b4f
 Lecture Notes
 -------------
 
-[Lecture 6: C++ Inheritance (PDF)]({{< baseurl >}}/resources/mit6_s096_iap13_lec6)
+{{% resource_link 792c0821-cf28-9a0b-8cf4-e3494e997df5 "Lecture 6: C++ Inheritance (PDF)" %}}
 
 Lab Exercises
 -------------
@@ -78,7 +80,7 @@ Verify your understanding of how the `virtual` keyword and method overriding wor
 Assignment 6
 ------------
 
-[rps (CPP)]({{< baseurl >}}/resources/rps)
+{{% resource_link 23c7e004-be62-3fe6-f467-62154c908d8f "rps (CPP)" %}}
 
 In the file rps.cpp, implement a class called `Tool`. It should have an `int` field called strength and a `char` field called `type`. You may make them either private or protected. The `Tool` class should also contain the function `void setStrength(int)`, which sets the strength for the `Tool`.
 
@@ -93,15 +95,9 @@ These classes will also need a public function `bool fight(Tool)` that compares 
 You may also include any extra auxiliary functions and/or fields in any of these classes. Run the program without changing the main function, and verify that the results are correct.
 
 ```
-
-
-```
 $ g++ -Wall rps.cpp -o rps
 $ ./rps
 <your test output>
-```
-
-
 ```
 
 ### Solutions

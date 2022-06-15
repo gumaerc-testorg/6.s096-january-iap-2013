@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-s096-introduction-to-c-and-c-january-iap-2013/812a4e8f7a2b5a435bad362fd23ad377_MIT6_S096_IAP13_lec2.pdf
+file: /courses/6-s096-introduction-to-c-and-c-january-iap-2013/812a4e8f7a2b5a435bad362fd23ad377_MIT6_S096_IAP13_lec2.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a lecture on pointers, addresses,
+  arrays, and manual memory management, including lecture notes, lab exercises, and
+  an assignment with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lectures and Assignments
@@ -14,7 +17,7 @@ Topics: Computer memory layout (heap, stack, call stack), pointers and addresses
 Lecture Notes
 -------------
 
-[Lecture 3: C Memory Management (PDF)]({{< baseurl >}}/resources/mit6_s096_iap13_lec3)
+{{% resource_link bba9056d-5290-198d-563e-dc47dfcff0e9 "Lecture 3: C Memory Management (PDF)" %}}
 
 Lab Exercises
 -------------
@@ -49,7 +52,7 @@ While coding up this exercise, listening to Hakuna Matata, I was so worry-free I
 Fix the following code so that it creates a string `str` and copies "`hakuna matata!`" into it.
 
 ```
-`#include <stdio.h>
+#include <stdio.h>
 
 void main() {
 	char str[];
@@ -57,8 +60,7 @@ void main() {
 	                         // into our char array
 	printf("%s\n", str);
 	// Anything else?
-}`
-
+}
 ```
 
 After confirming your fix works, change the code to use heap memory instead of the stack. Remember, everything you `malloc` you must also `free`!
@@ -68,7 +70,7 @@ Assignment 3
 
 ### Problem 1
 
-[sort (C)]({{< baseurl >}}/resources/sort)
+{{% resource_link bf997211-df40-0d14-b504-e4c0815c6d44 "sort (C)" %}}
 
 In sort.c, I've implemented a basic implementation of insertion sort (not too efficient, but a very simple sorting algorithm). Look at and understand the code (read comments), and put the proper argument data type for the sort function's first argument. Compile and run the code to make sure it works (it sorts the numbers).
 
@@ -80,7 +82,7 @@ Make sure your program compiles and runs correctly (numbers are sorted).
 
 ### Problem 2
 
-[resize (C)]({{< baseurl >}}/resources/resize)
+{{% resource_link 3f0a785b-70bb-2432-6d3a-84cf55dc0c3a "resize (C)" %}}
 
 The purpose of resize.c is to create an initial array of a user-specified size, then dynamically resize the array to a new user-specified size. I've given a shell of the code, including code to get user-specified sizes as `int`s.
 
@@ -88,4 +90,4 @@ However, the code is missing a few things. You must manage the memory for the ar
 
 ### Solutions
 
-[Assignment 3 solution (PDF)]({{< baseurl >}}/resources/mit6_s096_iap13_assn3_sol)
+{{% resource_link 4ad96743-16e7-41fe-0189-fe0d571beed8 "Assignment 3 solution (PDF)" %}}

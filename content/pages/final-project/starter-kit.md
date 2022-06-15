@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a kit to help students get started on their final
+  project, including example code, exercises, and suggested project ideas.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -14,7 +16,7 @@ Starting a C or C++ project from scratch can be a daunting task. If you're havin
 
 This Starter Kit uses the [libpng](http://www.libpng.org/pub/png/libpng.html) library to render a series of random lines as a PNG image. The images look like this:
 
-![Vertical red lines of different heights.]({{< resource_file 16c065ed-11ff-2203-60ba-6190d4a8bc4d >}})
+{{< resource 16c065ed-11ff-2203-60ba-6190d4a8bc4d >}}
 
 The example code was written by skimming the section of the [libpng manual (PDF)](http://www.libpng.org/pub/png/libpng-1.4.0-manual.pdf) on how to write PNG files. That manual also has a section on _reading_ PNG files that you might find useful.
 
@@ -22,7 +24,7 @@ Use this kit to bootstrap your project and your imagination! The deadline looms,
 
 ### Source Code
 
-[lines (C)]({{< baseurl >}}/resources/lines)
+{{% resource_link c9d5adc7-5b85-7df4-4582-fc9ce339dd56 "lines (C)" %}}
 
 ### Compiling
 
@@ -69,7 +71,7 @@ Optionally, convert the program to C++ and create a `Shape` parent class with su
 
 Read text from `stdin` and draw it on the image by changing pixel colors in the patterns of (very simple) letters. Here's an example of how you might render 'hi':
 
-![Red boxes against a white background, spelling out "hi".](/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013/final-project/starter-kit/Draw_Text.jpg)
+{{< resource "62024122-c82c-d8dd-dade-4ceb1b4e1f83" >}}
 
 Instead of hard-coding how to draw each letter shape, I recommend storing them as strings or in a separate file, but this is not necessary.
 

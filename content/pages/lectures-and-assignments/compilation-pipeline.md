@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides materials for a lecture on the C compiler, including
+  lecture notes, lab exercises, and an assignment with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lectures and Assignments
@@ -12,7 +14,7 @@ uid: f0acd411-10d1-ccdc-6d70-3d6ea2bfac40
 Lecture Notes
 -------------
 
-[Lecture 1: Compilation Pipeline (PDF - 1.0MB)]({{< baseurl >}}/resources/mit6_s096_iap13_lec1)
+{{% resource_link fa125236-3414-ff23-580c-2b924da60e3e "Lecture 1: Compilation Pipeline (PDF - 1.0MB)" %}}
 
 Lab Exercises
 -------------
@@ -21,7 +23,7 @@ The primary goal of this lab period is to get your C compiler up and running.
 
 We have 2 "Hello, World!" examples for you to practice compiling to make sure that everything is working.
 
-[Lab 1 files (ZIP)]({{< baseurl >}}/resources/lab1) (This ZIP file contains: 3 .c files and 1 .h file.)
+{{% resource_link 114879f1-1ff6-4d68-0d8f-e605461ccbb8 "Lab 1 files (ZIP)" %}} (This ZIP file contains: 3 .c files and 1 .h file.)
 
 Compile `hello1` with:
 
@@ -36,7 +38,7 @@ Assignment 1
 
 ### Setup
 
-[Assignment 1 files (ZIP)]({{< baseurl >}}/resources/assn1) (This ZIP file contains: 3 .c files and 2 .h files.)
+{{% resource_link 74c1b332-7e60-2e18-1ba7-1b2efb2b39fd "Assignment 1 files (ZIP)" %}} (This ZIP file contains: 3 .c files and 2 .h files.)
 
 The zip contains 3 C files:
 
@@ -56,7 +58,7 @@ You can compile them with this command (though it won't work at first; see Probl
 You can run the resulting program with two arguments: a number, then a string (in quotes):
 
 ```
-**./fibeverse 6 'what a trip that was!'**  8  was! that trip a what
+./fibeverse 6 'what a trip that was!'  8  was! that trip a what
 ```
 
 The first line it prints is the 6{{< sup "th" >}} fibonacci number. The second line is the string you provided, with the words reversed.
@@ -93,4 +95,4 @@ It should work as it originally did when I provide both compiler flags:
 
 ### Solutions
 
-[Assignment 1 solution (PDF)]({{< baseurl >}}/resources/mit6_s096_iap13_assn1_sol)
+{{% resource_link 814892a7-f0b4-b32c-2b3a-66b5f9e496c7 "Assignment 1 solution (PDF)" %}}
