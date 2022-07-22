@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides materials for a lecture on writing code in C, including
+  lecture notes, lab exercises, and an assignment.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lectures and Assignments
+parent_type: CourseSection
 parent_uid: 1d0729a5-9d9f-5e99-126f-6cea8d53b518
 title: 'Core C: Control Structures, Variables, Scope, and Uninitialized Memory'
 uid: 055a6a4e-4abd-91c3-6e69-fb5bc0e07a03
@@ -9,7 +14,7 @@ uid: 055a6a4e-4abd-91c3-6e69-fb5bc0e07a03
 Lecture Notes
 -------------
 
-[Lecture 2: Core C (PDF)]({{< baseurl >}}/resources/mit6_s096_iap13_lec2)
+{{% resource_link 812a4e8f-7a2b-5a43-5bad-362fd23ad377 "Lecture 2: Core C (PDF)" %}}
 
 Lab Exercises
 -------------

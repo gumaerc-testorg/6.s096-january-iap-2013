@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a description of the final project of the course,
+  a starter kit, example projects, and list of third-party libraries.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Final Project
 uid: 43e815cb-25bc-972c-4ad2-bcd5545036c5
 ---
@@ -20,7 +25,7 @@ If your project doesn't run on Windows, Linux, or OS X (maybe it runs on phones 
 Starter Kit
 -----------
 
-If you're having trouble getting started, perhaps you'll find what you need in the [Starter Kit]({{< baseurl >}}/pages/final-project/starter-kit)!
+If you're having trouble getting started, perhaps you'll find what you need in the {{% resource_link 95373ee7-c310-c36e-3ac2-a00d9b23d8bf "Starter Kit" %}}!
 
 Example Projects
 ----------------

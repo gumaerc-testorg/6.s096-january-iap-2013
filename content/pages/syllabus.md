@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on course meeting times, the standard software environment used for the course,
+  and how to mimic that environment on your own computer.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus and Software
 uid: 01ee04e1-38b0-9ea0-c906-e9d57f619319
 ---
