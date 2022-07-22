@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Starter Kit
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Draw_Text.jpg
 uid: 62024122-c82c-d8dd-dade-4ceb1b4e1f83
 ---
 New image Upload
-

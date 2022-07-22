@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Vertical red lines of different heights.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Starter Kit
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Line.jpg
 uid: 16c065ed-11ff-2203-60ba-6190d4a8bc4d
 ---
 New image Upload
-

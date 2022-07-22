@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-s096-introduction-to-c-and-c-january-iap-2013/812a4e8f7a2b5a435bad362fd23ad377_MIT6_S096_IAP13_lec2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Core C: Control Structures, Variables, Scope, and Uninitialized Memory'
 parent_type: CourseSection
