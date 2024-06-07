@@ -2,6 +2,7 @@
 content_type: resource
 description: Diagram with four nodes. Image by MIT OpenCourseWare.
 file: /courses/6-s096-introduction-to-c-and-c-january-iap-2013/88c1c1eda9549b638921e7bc588469b5_Payload.jpg
+file_size: 34069
 file_type: image/jpeg
 image_metadata:
   caption: Diagram with four nodes.
