@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for lecture 5.
 file: /courses/6-s096-introduction-to-c-and-c-january-iap-2013/a915d672bc40b14f7a00da9ac00d69d4_p2_templates.cpp
+file_size: 913
 file_type: text/x-c++src
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

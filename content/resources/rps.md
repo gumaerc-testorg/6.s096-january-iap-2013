@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-s096-introduction-to-c-and-c-january-iap-2013/23c7e004be623fe6f46762154c908d8f_rps.cpp
+file_size: 457
 file_type: text/x-c++src
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
