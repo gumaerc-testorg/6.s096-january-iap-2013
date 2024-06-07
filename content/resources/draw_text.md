@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/6-s096-introduction-to-c-and-c-january-iap-2013/62024122c82cd8dddade4ceb1b4e1f83_Draw_Text.jpg
+file_size: 9651
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to an assignment on the C compilation pipeline.
 file: /courses/6-s096-introduction-to-c-and-c-january-iap-2013/814892a7f0b4b32c2b3a66b5f9e496c7_MIT6_S096_IAP13_assn1_sol.pdf
+file_size: 543636
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

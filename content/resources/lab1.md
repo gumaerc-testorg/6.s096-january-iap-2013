@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file for lab 1.
 file: /courses/6-s096-introduction-to-c-and-c-january-iap-2013/114879f11ff64d680d8fe605461ccbb8_lab1.zip
+file_size: 664
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
