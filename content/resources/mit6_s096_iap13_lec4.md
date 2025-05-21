@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding data structures, debugging.
-file: /ol-ocw-studio-app/courses/6-s096-introduction-to-c-and-c-january-iap-2013/076c771c7ffae45c12d6dc93183b9d9b_MIT6_S096_IAP13_lec4.pdf
+file: /courses/6-s096-introduction-to-c-and-c-january-iap-2013/076c771c7ffae45c12d6dc93183b9d9b_MIT6_S096_IAP13_lec4.pdf
 file_size: 353820
 file_type: application/pdf
 learning_resource_types: []
