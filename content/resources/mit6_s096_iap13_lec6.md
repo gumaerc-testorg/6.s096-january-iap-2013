@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding C++ inheritance.
-file: /courses/6-s096-introduction-to-c-and-c-january-iap-2013/792c0821cf289a0b8cf4e3494e997df5_MIT6_S096_IAP13_lec6.pdf
+file: /ol-ocw-studio-app/courses/6-s096-introduction-to-c-and-c-january-iap-2013/792c0821cf289a0b8cf4e3494e997df5_MIT6_S096_IAP13_lec6.pdf
 file_size: 597679
 file_type: application/pdf
 learning_resource_types: []
