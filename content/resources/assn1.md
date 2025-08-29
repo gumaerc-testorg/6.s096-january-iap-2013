@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for assignment 1.
-file: /courses/6-s096-introduction-to-c-and-c-january-iap-2013/74c1b3327e602e181ba71b2efb2b39fd_assn1.zip
+file: /ol-ocw-studio-app/courses/6-s096-introduction-to-c-and-c-january-iap-2013/74c1b3327e602e181ba71b2efb2b39fd_assn1.zip
 file_size: 1146
 file_type: application/zip
 learning_resource_types: []

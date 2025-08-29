@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding standard template library,
   exceptions, function pointers, C++11.
-file: /courses/6-s096-introduction-to-c-and-c-january-iap-2013/1a29a40fd23c64f5f090c8fa9f22ebc9_MIT6_S096_IAP13_lec8.pdf
+file: /ol-ocw-studio-app/courses/6-s096-introduction-to-c-and-c-january-iap-2013/1a29a40fd23c64f5f090c8fa9f22ebc9_MIT6_S096_IAP13_lec8.pdf
 file_size: 1536469
 file_type: application/pdf
 learning_resource_types: []
